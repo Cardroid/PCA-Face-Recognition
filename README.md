@@ -6,7 +6,7 @@ PCA를 사용한 얼굴 인식
 ## 데이터 셋 폴더 구조
 해당 코드를 수정해서 알맞은 데이터 셋 위치를 입력해야합니다.
 ```python
-datasets_dirpath = "src/homework/face_img"  # 데이터 셋 디렉터리 위치
+datasets_dirpath = "face_img"  # 데이터 셋 디렉터리 위치
 ```
 
 ```
